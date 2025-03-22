@@ -26,4 +26,5 @@ update-java-alternatives --list
 ![image](https://github.com/user-attachments/assets/e71ecf62-8ba8-4cf5-8cd5-1ef1e1cb694e)
 
 ## Fork The Repo and build the pipeline
-![image](https://github.com/user-attachments/assets/f2e44ee3-189b-47cf-9a10-c1d205661051)
+![WhatsApp Image 2025-03-22 at 14 19 10_c465f028](https://github.com/user-attachments/assets/4891c22e-5f9e-4401-81e0-0d1f79ad13de)
+
